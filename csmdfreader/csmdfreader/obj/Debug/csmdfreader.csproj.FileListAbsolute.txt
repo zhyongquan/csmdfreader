@@ -1,0 +1,8 @@
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\bin\Debug\csmdfreader.exe.config
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\bin\Debug\csmdfreader.exe
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\bin\Debug\csmdfreader.pdb
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\obj\Debug\csmdfreader.FrmMDF.resources
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\obj\Debug\csmdfreader.Properties.Resources.resources
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\obj\Debug\csmdfreader.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\obj\Debug\csmdfreader.exe
+D:\用户目录\我的文档\GitHub\csmdfreader\csmdfreader\csmdfreader\obj\Debug\csmdfreader.pdb
